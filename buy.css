@@ -1,0 +1,32 @@
+table {
+  padding-top: 10px;
+  color: white;
+}
+
+img {
+  width: 77%;
+  height: 77%;
+}
+
+#jstn {
+  height: 47%;
+  width: 47%;
+  padding-left: 17%;
+}
+
+#high {
+  width: 47%;
+  height: 47%;
+  padding-left: 17%;
+}
+
+.orange-btn{
+	padding: 10px;
+  border-radius: 4px;
+  background-color: #ff4000;
+  text-decoration: none;
+  color: white;
+}
+.orange-btn:hover{
+  background-color: #ff4000;
+}

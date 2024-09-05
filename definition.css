@@ -1,0 +1,37 @@
+body {
+  color: white;
+  padding-left: 0px;
+}
+
+img {
+  width: 137px;
+  height: 137px;
+}
+
+#gpu {
+  width: 137px;
+  height: 117px;
+}
+
+td {
+  padding: 10px;
+  padding-left: 0px;
+  vertical-align: center;
+}
+
+tr {
+  padding-left: 0px;
+}
+
+tr:hover{
+  background-color:#ff4000;
+}
+
+table {
+  padding-left: 0px;
+}
+
+#def td {
+  padding-left: 0px;
+  margin-left: 0px;
+}
